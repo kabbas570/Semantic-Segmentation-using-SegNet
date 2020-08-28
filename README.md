@@ -11,9 +11,9 @@ In put for the network is an RGB Image and target is a binary mask of each class
 
 ## Input Imgae                                                              Target
 
-![image](https://user-images.githubusercontent.com/56618776/91530231-bc562980-e945-11ea-90b1-d1d7cb2f64dd.png)
+![image](https://user-images.githubusercontent.com/56618776/91530231-bc562980-e945-11ea-90b1-d1d7cb2f64dd.png)      ![image](https://user-images.githubusercontent.com/56618776/91530411-ff180180-e945-11ea-9d1a-b272b0931a38.png)
 
 
-![image](https://user-images.githubusercontent.com/56618776/91530411-ff180180-e945-11ea-9d1a-b272b0931a38.png)
+
 
 
